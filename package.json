@@ -1,6 +1,6 @@
 {
   "name": "create-donotdev",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "description": "Create a new DoNotDev project",
   "type": "module",
   "private": false,
@@ -27,7 +27,7 @@
     "type-check": "bunx tsc --noEmit"
   },
   "dependencies": {
-    "@clack/prompts": "^1.8.1"
+    "@clack/prompts": "^1.9.0"
   },
   "devDependencies": {
     "@types/node": "^24.19.2",
